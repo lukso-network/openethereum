@@ -33,6 +33,7 @@ rlp = "0.4.5"
 time-utils = { path = "../../../util/time-utils" }
 unexpected = { path = "../../../util/unexpected" }
 validator-set = { path = "../validator-set" }
+hex = "0.4.2"
 
 [dev-dependencies]
 accounts = { package = "ethcore-accounts", path = "../../../accounts" }

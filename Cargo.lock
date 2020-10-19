@@ -188,6 +188,7 @@ dependencies = [
  "ethcore-io",
  "ethereum-types",
  "ethjson",
+ "hex",
  "itertools",
  "keccak-hash",
  "lazy_static",
